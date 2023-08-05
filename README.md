@@ -1,7 +1,5 @@
 # Beyond Dates
 
-This project provides a comprehensive dataset and implementations for the exploration of machine learning models with techniques such as LIME, SHAP, and the use of ICLNet.
-
 Dataset
 
 The complete dataset used in this project has been uploaded to this repository. The data is organized in various files, which can be found in the main directory.
